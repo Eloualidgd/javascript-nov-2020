@@ -1,0 +1,54 @@
+
+
+.input-group-append{
+    margin-top: 30px;
+    margin-right: 410px;
+}
+
+.form-control{
+    margin-top: 30px;
+    margin-left: 350px;
+}
+
+.caption {
+    margin-top: 300px;
+    margin-left: 350px;
+}
+
+.link {
+    margin-top: 500px;
+    margin-left: 990px;
+}
+
+.footer1 {
+    margin-top: 120px;
+    margin-left: 530px;
+}
+.footer2{
+    margin-top: 10px ;
+    margin-left: 553px;
+}
+.icon-news{
+
+    margin-left: 530px;
+    font-size: 4em;
+}
+.h2{
+    text-align: center;
+    margin-top: -60px;
+}
+
+
+
+
+
+/*.btn-default{*/
+/*    background: blanchedalmond;*/
+/*    width: 100px;*/
+/*    padding: 12.5px;*/
+
+/*}*/
+/*.form-control{*/
+/*    padding: 25px;*/
+/*    font-size: 20px;*/
+/*}*/
